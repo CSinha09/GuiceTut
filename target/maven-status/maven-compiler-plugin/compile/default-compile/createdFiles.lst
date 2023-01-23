@@ -1,0 +1,7 @@
+Square/DrawShape.class
+Square/ColorValue.class
+org/example/Main.class
+RequestSquare/SquareRequest.class
+Square/IntegerValue.class
+GuiceModule/AppModule.class
+Square/DrawSquare.class
